@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "RobotPapelera",
+    "slug": "blank",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "36836f03-e29a-424c-9bc8-07701bcb2ee5"
+      }
+    },
+    "android": {
+      "package": "com.camilocarvajalsilva.blank"
+    }
+  }
+}
